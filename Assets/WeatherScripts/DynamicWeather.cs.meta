@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac8287470bddaab458532501b972ccbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sunCloudsParticleSystem: {instanceID: 0}
+  - stormParticleSystem: {instanceID: 0}
+  - mistParticleSystem: {instanceID: 0}
+  - overcastParticleSystem: {instanceID: 0}
+  - snowParticleSystem: {instanceID: 0}
+  - sunnyAudio: {instanceID: 0}
+  - stormAudio: {instanceID: 0}
+  - mistAudio: {instanceID: 0}
+  - overcastAudio: {instanceID: 0}
+  - snowAudio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
